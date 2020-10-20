@@ -1,0 +1,4 @@
+[submodule "EIRC5"]
+	path = EIRC5
+	url = https://github.com/TOtto-EclipseIR/EIRC5.git
+	branch = develop
