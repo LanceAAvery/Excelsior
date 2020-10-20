@@ -3,4 +3,5 @@ TEMPLATE = subdirs
 SUBDIRS += \
     doc \
     res \
-    src
+    src \
+    xdType

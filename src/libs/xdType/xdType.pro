@@ -1,7 +1,7 @@
 QT -= gui
 
 TEMPLATE = lib
-DEFINES += XRBBASE_LIBRARY
+DEFINES += XDTYPE_LIBRARY
 
 CONFIG += c++11
 
@@ -10,13 +10,11 @@ CONFIG += c++11
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
-    AbstractRobloObject.cpp \
-    xrbBase.cpp
+    xdType.cpp
 
 HEADERS += \
-    AbstractRobloObject.h \
-    xrbBase_global.h \
-    xrbBase.h
+    xdType_global.h \
+    xdType.h
 
 # Default rules for deployment.
 unix {
