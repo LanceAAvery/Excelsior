@@ -10,9 +10,11 @@ CONFIG += c++11
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
+    AbstractRobloObject.cpp \
     xiBase.cpp
 
 HEADERS += \
+    AbstractRobloObject.h \
     xiBase_global.h \
     xiBase.h
 
