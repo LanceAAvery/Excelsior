@@ -1,13 +1,13 @@
 #pragma once
 
-//#include <eirWgt/StackedGraphicsMainWindow.h>
-#include <QMainWindow>
+#include <eirWgt/StackedGraphicsMainWindow.h>
+//#include <QMainWindow>
 
-class RogueBlockMainWindow : public QMainWindow //StackedGraphicsMainWindow
+class RogueBlockMainWindow : public StackedGraphicsMainWindow
 {
     Q_OBJECT
 public:
-    explicit RogueBlockMainWindow(QMainWindow *parent = nullptr);
+    explicit RogueBlockMainWindow();
 
 signals:
 

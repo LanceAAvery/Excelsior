@@ -1,7 +1,7 @@
 #include "RogueBlockMainWindow.h"
 
-RogueBlockMainWindow::RogueBlockMainWindow(QMainWindow *parent)
-    : QMainWindow(parent)
+RogueBlockMainWindow::RogueBlockMainWindow()
+    : StackedGraphicsMainWindow()
 {
 
 }
