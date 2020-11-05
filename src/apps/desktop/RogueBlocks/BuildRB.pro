@@ -11,9 +11,9 @@ SUBDIRS += \
     ../../../libs/xrbHelper \
     ../../../libs/xrbTerrain \
     ../../../libs/xrbGrid \
-    ../../../../EIRC5/src/libs/eirXfr \
-    ../../../../EIRC5/src/libs/eirType \
-    ../../../../EIRC5/src/libs/eirExe \
-    ../../../../EIRC5/src/libs/eirWgt \
+    ../../../../../EIRC5/src/libs/eirXfr \
+    ../../../../../EIRC5/src/libs/eirType \
+    ../../../../../EIRC5/src/libs/eirExe \
+    ../../../../../EIRC5/src/libs/eirWgt \
     ../RogueBlocks \
 
