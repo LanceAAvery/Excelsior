@@ -1,4 +1,4 @@
-# file: {EIRC2 repo}./src/version.pri
+# file: {Excelsior}./src/version.pri
 
 VER_MAJOR = 2
 VER_MINOR = 2
